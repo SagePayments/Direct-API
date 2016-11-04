@@ -1,0 +1,13 @@
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\DirectAPI_VBnet_Sample\DirectAPI_VBnet_Sample\bin\Debug\DirectAPI_VBnet_Sample.exe.config
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\DirectAPI_VBnet_Sample\DirectAPI_VBnet_Sample\bin\Debug\DirectAPI_VBnet_Sample.exe
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\DirectAPI_VBnet_Sample\DirectAPI_VBnet_Sample\bin\Debug\DirectAPI_VBnet_Sample.pdb
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\DirectAPI_VBnet_Sample\DirectAPI_VBnet_Sample\bin\Debug\DirectAPI_VBnet_Sample.xml
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\DirectAPI_VBnet_Sample\DirectAPI_VBnet_Sample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\DirectAPI_VBnet_Sample\DirectAPI_VBnet_Sample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\DirectAPI_VBnet_Sample\DirectAPI_VBnet_Sample\obj\Debug\DirectAPI_VBnet_Sample.vbprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\DirectAPI_VBnet_Sample\DirectAPI_VBnet_Sample\obj\Debug\DirectAPI_VBnet_Sample.Main.resources
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\DirectAPI_VBnet_Sample\DirectAPI_VBnet_Sample\obj\Debug\DirectAPI_VBnet_Sample.Resources.resources
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\DirectAPI_VBnet_Sample\DirectAPI_VBnet_Sample\obj\Debug\DirectAPI_VBnet_Sample.vbproj.GenerateResource.Cache
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\DirectAPI_VBnet_Sample\DirectAPI_VBnet_Sample\obj\Debug\DirectAPI_VBnet_Sample.exe
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\DirectAPI_VBnet_Sample\DirectAPI_VBnet_Sample\obj\Debug\DirectAPI_VBnet_Sample.xml
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\DirectAPI_VBnet_Sample\DirectAPI_VBnet_Sample\obj\Debug\DirectAPI_VBnet_Sample.pdb
